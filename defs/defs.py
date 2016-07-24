@@ -6,9 +6,9 @@
 
 class HDefine:
 
-    hTitle = "HugSvn"
-    hWidth, hHeight = (400, 400)
-    hGeometry = '400x400'
+    title = "HugSvn"
+    width, height = (400, 400)
+    geometry = '400x400'
 
 
 
